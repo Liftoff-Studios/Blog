@@ -7,10 +7,19 @@ tags: javascript,beginner,career
 ~~
 
 # Welcome to my blog
-# Feel free to explore around
 
+It's fun having you here, this is my first post. I've pretty much used the most maintainable method to create this blog.
+
+So I used a github repository to hold all my .MD articles and just fetched them from the site ;)
+
+It's obviously not as efficient as using the dev.to api but the stuff I post there sometimes is off-topic and not stuff you'd put on a professional blog lol
 
 ```javascript
-let foo = lol;
+console.log("New Blog :D");
+```
 
+```rust
+fn main(){
+  println!("Hello World!");
+}
 ```
