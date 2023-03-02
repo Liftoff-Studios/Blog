@@ -8,3 +8,9 @@ tags: javascript,beginner,career
 
 # Welcome to my blog
 # Feel free to explore around
+
+
+```javascript
+let foo = lol;
+
+```
